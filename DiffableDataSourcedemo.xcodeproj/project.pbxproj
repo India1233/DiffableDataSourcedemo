@@ -79,7 +79,7 @@
 		9A4D2CC123A112BE004F3918 = {
 			isa = PBXGroup;
 			children = (
-				9A4D2CCC23A112BE004F3918 /* Diff */,
+				9A4D2CCC23A112BE004F3918 /* DiffableDataSourcedemo */,
 				9A4D2CE323A112C0004F3918 /* DiffTests */,
 				9A4D2CEE23A112C0004F3918 /* DiffUITests */,
 				9A4D2CCB23A112BE004F3918 /* Products */,
@@ -96,7 +96,7 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		9A4D2CCC23A112BE004F3918 /* Diff */ = {
+		9A4D2CCC23A112BE004F3918 /* DiffableDataSourcedemo */ = {
 			isa = PBXGroup;
 			children = (
 				9A4D2CCD23A112BE004F3918 /* AppDelegate.swift */,
@@ -107,7 +107,7 @@
 				9A4D2CD823A112C0004F3918 /* LaunchScreen.storyboard */,
 				9A4D2CDB23A112C0004F3918 /* Info.plist */,
 			);
-			path = Diff;
+			path = DiffableDataSourcedemo;
 			sourceTree = "<group>";
 		};
 		9A4D2CE323A112C0004F3918 /* DiffTests */ = {
@@ -436,7 +436,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = W8ZB6PL47P;
-				INFOPLIST_FILE = Diff/Info.plist;
+				INFOPLIST_FILE = DiffableDataSourcedemo/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -454,7 +454,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = W8ZB6PL47P;
-				INFOPLIST_FILE = Diff/Info.plist;
+				INFOPLIST_FILE = DiffableDataSourcedemo/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
